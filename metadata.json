@@ -1,0 +1,6 @@
+{
+  "name": "LumaSphere",
+  "description": "Professional 360 degree 32-bit EXR HDRI environment mapping and camera pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
